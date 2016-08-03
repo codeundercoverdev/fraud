@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  icd10: MyString
+  cpt: 1
+  ehr: MyString
+
+two:
+  icd10: MyString
+  cpt: 1
+  ehr: MyString
